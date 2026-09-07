@@ -13,12 +13,7 @@ CSE Student • Full-Stack Developer • MERN • Backend • AI
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/asad218">
-    <img src="https://img.shields.io/github/stars/asad218?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars"/>
-  </a>
-  <img src="https://img.shields.io/github/commit-activity/y/asad218?style=flat&label=Commits" alt="Commit Activity"/>
-</p>
+
 
 ---
 
