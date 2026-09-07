@@ -6,9 +6,7 @@ CSE Student • Full-Stack Developer • MERN • Backend • AI
 
 <p align="center">
   <a href="https://github.com/asad218">
-    <img src="https://komarev.com/ghpvc/?username=asad218&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/asad218?tab=followers">
     <img src="https://img.shields.io/github/followers/asad218?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
