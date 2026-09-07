@@ -7,8 +7,7 @@ CSE Student • Full-Stack Developer • MERN • Backend • AI
 <p align="center">
   <a href="https://github.com/asad218">
   </a>
-    <img src="https://img.shields.io/github/followers/asad218?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
+
 </p>
 
 
