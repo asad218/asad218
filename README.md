@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asad Akram</h1>
-
 <h3 align="center">
 CSE Student • Full-Stack Developer • MERN • Backend • AI
 </h3>
