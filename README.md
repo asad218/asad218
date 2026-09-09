@@ -19,7 +19,7 @@ I'm a **Computer Science Engineering student** focused on becoming a strong full
 
 I enjoy building practical applications, understanding how systems work under the hood, and continuously improving my problem-solving skills through **Data Structures & Algorithms and Computer Science fundamentals**.
 
-* 🔭 Currently building **[Banking System](https://github.com/asad218/Banking-system)**
+* 🔭 Currently building **[RouteX](https://github.com/asad218/RouteX-Intelligent-Route-Optimization-Engine)**
 * 🌱 Currently learning **Docker, AWS, DSA, Backend Engineering & System Design**
 * 🛠️ Primary stack: **MERN**
 * 🗄️ Working with **MongoDB & MySQL**
